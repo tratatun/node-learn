@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "node-express"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {}

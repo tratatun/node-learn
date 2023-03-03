@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "app-js-01"
+		},
+		{
+			"path": "app1"
+		},
+		{
+			"path": "app2"
+		},
+		{
+			"path": "appHR1"
+		},
+		{
+			"path": "appHR2"
+		},
+		{
+			"path": "appHR11"
+		},
+		{
+			"path": "event-loop"
+		},
+		{
+			"path": "node-express"
+		}
+	],
+	"settings": {}
+}

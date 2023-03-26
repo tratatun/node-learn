@@ -1,4 +1,6 @@
 
+
+
 function pickingNumbers(a) {
     // Write your code here
     let first = 0, last = 1, arr = [...a].sort((a, b) => a - b), res = [];
